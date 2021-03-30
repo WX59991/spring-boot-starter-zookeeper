@@ -1,0 +1,5 @@
+zookeeper:
+  enabled: true
+  hosts: localhost:2181
+  session_outtime: 2000
+  connect_timeout: 2000
